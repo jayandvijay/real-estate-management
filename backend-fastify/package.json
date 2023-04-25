@@ -25,7 +25,7 @@
     "@types/mongoose": "^5.11.97",
     "dotenv": "^10.0.0",
     "fastify": "^3.29.4",
-    "fastify-bcrypt": "^1.0.0",
+    "fastify-bcrypt": "^1.0.1",
     "mongoose": "^6.0.12",
     "uuid": "^8.3.2"
   },
